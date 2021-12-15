@@ -8,19 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). Currently, I'm working on the robust perception, prediction and motion planning for autonomous driving. Prior to this, I received my Bachelor’s degree from Hong Kong University of Science and Technology, where I have been lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). 
+I am a first-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research interest lies in autonomous driving security, uncertainty estimation, and sensor security. I am especially excited by robust perception, prediction algorithms for autonomous driving.
 
-My research interest lies in computer vision and robotics. I am especially excited by perception algorithms that can generalize and adapt, and their applications in the robotic domain.
+Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against vision-based autonomous driving.
 
 # Education
 
-- Sept. 2021 - now <p align="right">Ph.D. in Computer Science, City University of Hong Kong</p>
-- Sept. 2017 - June 2021 <p align="right">B.S.C. in Computer Science, City University of Hong Kong</p>
+- Sept. 2021 - now                        Ph.D. in Computer Science, City University of Hong Kong, Hong Kong SAR
+- Sept. 2017 - June 2021              B.S.C. in Computer Science, City University of Hong Kong, Hong Kong SAR
 
-Publication
-======
+# Publication
 
+{% include base_path %}
 
+<h6>* indicates equal contribution. </h6>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<tbody>
+  {% for post in site.publications reversed %}
+    {% if post.show %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</tbody>
+</table>
 
 # Teaching
 
