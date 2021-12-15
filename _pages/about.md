@@ -14,7 +14,8 @@ My research interest lies in computer vision and robotics. I am especially excit
 
 # Education
 
-
+- Sept. 2021 - now <p align="right">Ph.D. in Computer Science, City University of Hong Kong</p>
+- Sept. 2017 - June 2021 <p align="right">B.S.C. in Computer Science, City University of Hong Kong</p>
 
 Publication
 ======
