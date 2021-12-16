@@ -10,12 +10,12 @@ redirect_from:
 
 I am a first-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research interest lies in autonomous driving security, uncertainty estimation, and sensor security. I am especially excited by robust perception, prediction algorithms for autonomous driving.
 
-Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against vision-based autonomous driving.
+Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against autonomous driving.
 
 # Education
 
-- Sept. 2021 - now                        Ph.D. in Computer Science, City University of Hong Kong, Hong Kong SAR
-- Sept. 2017 - June 2021              B.S.C. in Computer Science, City University of Hong Kong, Hong Kong SAR
+- Sept. 2021 - now &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
+- Sept. 2017 - June 2021 &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science, City University of Hong Kong
 
 # Publication
 

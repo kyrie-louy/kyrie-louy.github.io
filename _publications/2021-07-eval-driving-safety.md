@@ -1,13 +1,13 @@
 ---
 title: "Evaluating Adversarial Attacks on Driving Safety in Vision-Based Autonomous Vehicles"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 'We propose an end-to-end evaluation framework with a set of driving safety performance metric.'
+permalink: /publication/2021-07-eval-driving-safety
+excerpt: 'We investigate the impact of two primary types of adversarial attacks on the driving safety of vision-based autonomous vehicles and propose an end-to-end evaluation framework with a set of driving safety performance metrics.'
 date: 2021-07-26
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9493770'
-imgurl: 'eval_driving_safety.png'
-# show: false
+imgurl: 'eval-driving-safety.png'
+show: true
 authors:
     - name: Jindi Zhang*
     - name: Yang Lou*
