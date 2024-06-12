@@ -3,7 +3,7 @@ title: "A First Physical-World Trajectory Prediction Attack via LiDAR-induced De
 collection: publications
 date: 2024-06-13
 venue: 'USENIX Security 24'
-show: true
+show: false
 authors:
     - name: Yang Lou*
     - name: Yi Zhu*

@@ -30,7 +30,7 @@ Prior to this, I earned my Bachelor’s degree in Computer Science from the City
 # Education
 
 - Sept. 2021 - now &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
-- Nov. 2022 - Apr. 2023          Visiting Ph.D. student, State University of New York at Buffalo
+- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Visiting Ph.D. student, State University of New York at Buffalo
 - Sept. 2017 - June 2021 &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science, City University of Hong Kong
 
 # Teaching
