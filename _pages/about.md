@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Lou"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,12 @@ redirect_from:
 I am a ~~first-~~ ~~second-~~ third-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research interest lies in autonomous driving security, sensor security and uncertainty estimation. I am especially excited by **robust perception, prediction algorithms** for autonomous driving.
 
 Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against autonomous driving.
+
+# Education
+
+- Sept. 2021 - now &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
+- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visiting Ph.D. student, State University of New York at Buffalo
+- Sept. 2017 - June 2021 &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science, City University of Hong Kong
 
 # Publication
 
@@ -27,12 +33,6 @@ Prior to this, I earned my Bachelor’s degree in Computer Science from the City
   {% endfor %}
 </tbody>
 </table>
-
-# Education
-
-- Sept. 2021 - now &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
-- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visiting Ph.D. student, State University of New York at Buffalo
-- Sept. 2017 - June 2021 &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science, City University of Hong Kong
 
 # Teaching Experiences
 
