@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a ~~first-~~ ~~second-~~ third-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research interest lies in autonomous driving security, sensor security and uncertainty estimation. I am especially excited by robust perception, prediction algorithms for autonomous driving.
+I am a ~~first-~~ ~~second-~~ third-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research interest lies in autonomous driving security, sensor security and uncertainty estimation. I am especially excited by **robust perception, prediction algorithms** for autonomous driving.
 
 Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against autonomous driving.
 
@@ -27,15 +27,20 @@ Prior to this, I earned my Bachelor’s degree in Computer Science from the City
   {% endfor %}
 </tbody>
 </table>
+
 # Education
 
 - Sept. 2021 - now &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
-- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Visiting Ph.D. student, State University of New York at Buffalo
+- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visiting Ph.D. student, State University of New York at Buffalo
 - Sept. 2017 - June 2021 &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science, City University of Hong Kong
 
-# Teaching
+# Teaching Experiences
 
-- Teaching Assistant for CS4293 - Cyber Security, Spring 2024 at CityU
-- Teaching Assistant for CS3201 - Computer Network, Fall 2023 at CityU
-- Teaching Assistant for CS4293 - Cyber Security, Spring 2022 at CityU
-- Teaching Assistant for CS3201 - Computer Network, Fall 2021 at CityU
+- Spring 2024, CS4293 Cyber Security
+- Fall 2023, CS3201 Computer Network
+- Spring 2022, CS4293 Cyber Security
+- Fall 2021, CS3201 Computer Network
+
+# Honers and Rewards
+
+- 2022-2023, Research Tuition Scholarship, City University of Hong Kong

@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/2021-07-eval-driving-safety
 date: 2021-07-26
 venue: 'IEEE Internet of Things Journal'
-show: false
+paperurl: 'https://ieeexplore.ieee.org/document/9493770'
+imgurl: 'eval-driving-safety.png'
+show: true
 authors:
     - name: Jindi Zhang*
     - name: Yang Lou*
@@ -12,8 +14,8 @@ authors:
     - name: Kui Wu
     - name: Kejie Lu
 links:
-    - name: PDF
+    - name: Paper
       link: files/eval_driving_safety.pdf
-    - name: Code
+    - name: Github
       link: https://github.com/DexterJZ/eval_driving_safety
 ---
