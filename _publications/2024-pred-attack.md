@@ -16,5 +16,5 @@ authors:
     - name: Jianping Wang
 links:
     - name: Paper
-        link: files/security24.pdf
+      link: files/security24.pdf
 ---
