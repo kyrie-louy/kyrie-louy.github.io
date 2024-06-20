@@ -43,4 +43,4 @@ Prior to this, I earned my Bachelor’s degree in Computer Science from the City
 
 # Honers and Rewards
 
-- 2022-2023, Research Tuition Scholarship, City University of Hong Kong
+- 2022-2023, Institutional Research Tuition Scholarship, City University of Hong Kong
