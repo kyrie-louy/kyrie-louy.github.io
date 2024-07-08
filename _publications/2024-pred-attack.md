@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-pred-attack
 date: 2024-06-13
 venue: 'USENIX Security 24'
+paperurl: 'https://www.usenix.org/conference/usenixsecurity24/presentation/lou'
 imgurl: 'pred-attack.png'
 show: true
 authors:
@@ -17,4 +18,6 @@ authors:
 links:
     - name: Paper
       link: files/security24.pdf
+    - name: Demo
+      link: https://1drv.ms/v/s!Aoc_mWfaEyaGbrdCPNS9oKMjm9Q?e=f1GA6u
 ---
