@@ -23,6 +23,7 @@
   .publication-title {
     font-size: 1em;
     color: #4a4a4a;
+    font-weight: normal;  /* Remove bold styling */
   }
   .publication-authors {
     font-size: 0.9em;
@@ -42,7 +43,7 @@
 <ul class="publication-list">
   <li class="publication-item">
     <a href="{{ post.paperurl }}" target="_blank" class="publication-title">
-      <strong>{{post.title}}</strong>
+      {{post.title}}  <!-- Removed <strong> tags -->
     </a>
     <br>
     <span class="publication-authors">
@@ -70,7 +71,7 @@
       {{ venue_parts[0] | strip }}
       {% if venue_parts.size > 1 %}
         {% assign acronym_year = venue_parts[1] | remove: ")" | split: "," %}
-        ({{ acronym_year[0] | strip }}), {{ acronym_year[1] | strip }}
+        (<strong>{{ acronym_year[0] | strip }}</strong>), {{ acronym_year[1] | strip }}
       {% endif %}
     </span>
     <br>
