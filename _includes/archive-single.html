@@ -13,10 +13,7 @@
 {% endif %}
 
 <tr style="height: 150px;">
-  <td style="padding:10px;width:30%;vertical-align:middle;border:0px;border-spacing:0px;">
-    <!-- Removed the div and span that were used for image positioning -->
-  </td>
-  <td style="padding:10px;width:70%;vertical-align:middle;border:0px;border-spacing:0px;font-size: 1.2em;">
+  <td style="padding:10px;width:100%;vertical-align:middle;border:0px;border-spacing:0px;font-size: 1.2em;">
     <a href="{{ post.paperurl }}" target="_blank"> 
       <strong>{{post.title}}</strong>
     </a>
@@ -47,7 +44,7 @@
     {% endfor %} -->
     
     <br>
-    <span class="publication-venue" style="font-style: italic; color: #666;">{{post.venue}}</span>
+    <span class="publication-venue" style="font-style: italic; color: #292828;">{{post.venue}}</span>
 
     <br>
     {% for link in post.links %}
