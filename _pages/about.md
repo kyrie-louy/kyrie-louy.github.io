@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a ~~first-~~ ~~second-~~ third-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research interest lies in autonomous driving security, sensor security and uncertainty estimation. I am especially excited by **robust perception, prediction algorithms** for autonomous driving.
+I am a ~~first-~~ ~~second-~~ ~~third~~ fourth-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research focuses on the intersection of autonomous driving security, sensor security, and uncertainty estimation, with a particular interest in **robust perception and prediction algorithms** for autonomous driving.
 
-Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against autonomous driving.
+Prior to my , I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against autonomous driving.
+
+If you’re interested in this field, I also help maintain the [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) paper list—feel free to check it out!
 
 # Education
 
@@ -36,8 +38,9 @@ Prior to this, I earned my Bachelor’s degree in Computer Science from the City
 
 # Teaching Experiences
 
+- Fall 2024, CS3201 Computer Network (Tutor)
 - Spring 2024, CS4293 Cyber Security
-- Fall 2023, CS3201 Computer Network
+- Fall 2023, CS3201 Computer Network (Tutor)
 - Spring 2022, CS4293 Cyber Security
 - Fall 2021, CS3201 Computer Network
 

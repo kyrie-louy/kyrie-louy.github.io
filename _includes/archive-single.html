@@ -25,12 +25,29 @@
     </a>
     <br>
     {% for author in post.authors %}
+      {% if author.link.size > 0 %}
+        <a href="{{author.link}}" target="_blank">
+          {% if author.name contains "Yang Lou" %}
+            <strong>{{author.name}}</strong>
+          {% else %}
+            {{author.name}}
+          {% endif %}
+        </a>{% if author.star %}*{% endif %},
+      {% else %}
+        {% if author.name contains "Yang Lou" %}
+          <strong>{{author.name}}</strong>
+        {% else %}
+          {{author.name}}
+        {% endif %}
+      {% endif %}{% if author.star %}*{% endif %},
+    {% endfor %}
+    <!-- {% for author in post.authors %}
       {% if author.link.size > 0  %}
         <a href="{{author.link}}" target="_blank">{{author.name}}</a>{% if author.star %}*{% endif %},
       {% else %}
         <strong>{{author.name}}</strong>{% if author.star %}*{% endif %},
       {% endif %}
-    {% endfor %}
+    {% endfor %} -->
     
     <br>
     <em>{{post.venue}}</em>
