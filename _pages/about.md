@@ -12,7 +12,7 @@ I am a ~~first-~~ ~~second-~~ ~~third~~ fourth-year Ph.D. student in [Computer S
 
 Prior to my , I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/) on adversarial attacks against autonomous driving.
 
-If you’re interested in this field, I also help maintain the [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) paper list—feel free to check it out!
+I also help maintain the [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) paper list—feel free to check it out!
 
 # Education
 

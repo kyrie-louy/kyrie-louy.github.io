@@ -12,55 +12,49 @@
   {% assign title = post.title %}
 {% endif %}
 
-<tr style="height: auto;">
-  <td style="padding:5px 10px;width:100%;vertical-align:top;border:0px;border-spacing:0px;font-size: 1.2em;">
-    <a href="{{ post.paperurl }}" target="_blank"> 
-      <strong>{{post.title}}</strong>
-    </a>
-    <br>
-    {% for author in post.authors %}
-      {% if author.link.size > 0 %}
-        <a href="{{author.link}}" target="_blank">
-          {% if author.name contains "Yang Lou" %}
-            <strong>{{author.name}}</strong>
-          {% else %}
-            {{author.name}}
+<tr style="height: 150px;">
+  <td style="padding:0px 0px;width:100%;vertical-align:top;border:0px;border-spacing:0px;font-size: 1.2em;">
+    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+      <li>
+        <a href="{{ post.paperurl }}" target="_blank"> 
+          <strong>{{post.title}}</strong>
+        </a>
+        <br>
+        <span style="font-size: 0.9em;">
+          {% for author in post.authors %}
+            {% if author.link.size > 0 %}
+              <a href="{{author.link}}" target="_blank">
+                {% if author.name contains "Yang Lou" %}
+                  <strong>{{author.name}}</strong>
+                {% else %}
+                  {{author.name}}
+                {% endif %}
+              </a>{% if author.star %}*{% endif %},
+            {% else %}
+              {% if author.name contains "Yang Lou" %}
+                <strong>{{author.name}}</strong>
+              {% else %}
+                {{author.name}}
+              {% endif %}
+            {% endif %}{% if author.star %}*{% endif %},
+          {% endfor %}
+        </span>
+        
+        <br>
+        <em style="font-size: 0.9em;">
+          {% assign venue_parts = post.venue | split: "(" %}
+          {{ venue_parts[0] }}
+          {% if venue_parts.size > 1 %}
+            (<strong>{{ venue_parts[1] | remove: ")" }}</strong>)
           {% endif %}
-        </a>{% if author.star %}*{% endif %},
-      {% else %}
-        {% if author.name contains "Yang Lou" %}
-          <strong>{{author.name}}</strong>
-        {% else %}
-          {{author.name}}
-        {% endif %}
-      {% endif %}{% if author.star %}*{% endif %},
-    {% endfor %}
-    <!-- {% for author in post.authors %}
-      {% if author.link.size > 0  %}
-        <a href="{{author.link}}" target="_blank">{{author.name}}</a>{% if author.star %}*{% endif %},
-      {% else %}
-        <strong>{{author.name}}</strong>{% if author.star %}*{% endif %},
-      {% endif %}
-    {% endfor %} -->
-    
-    <br>
-    <em>
-      {% assign venue_parts = post.venue | split: "(" %}
-      {{ venue_parts[0] }}
-      {% if venue_parts.size > 1 %}
-        (<strong>{{ venue_parts[1] | remove: ")" }}</strong>)
-      {% endif %}
-    </em>
+        </em>
 
-    <br>
-    {% for link in post.links %}
-      <a href="{{link.link}}" target="_blank">[{{link.name}}]</a> 
-    {% endfor %}
-
-    <!-- <br>
-    <div style="padding-top:4px">
-      <p>{{post.excerpt}}</p>
-    </div> -->
+        <br>
+        {% for link in post.links %}
+          <a href="{{link.link}}" target="_blank">[{{link.name}}]</a> 
+        {% endfor %}
+      </li>
+    </ul>
   </td>
 </tr>
 
