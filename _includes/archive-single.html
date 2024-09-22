@@ -12,8 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<tr style="height: 150px;">
-  <td style="padding:10px;width:100%;vertical-align:middle;border:0px;border-spacing:0px;font-size: 1.2em;">
+<tr style="height: auto;">
+  <td style="padding:5px 10px;width:100%;vertical-align:top;border:0px;border-spacing:0px;font-size: 1.2em;">
     <a href="{{ post.paperurl }}" target="_blank"> 
       <strong>{{post.title}}</strong>
     </a>
@@ -44,7 +44,13 @@
     {% endfor %} -->
     
     <br>
-    <span class="publication-venue" style="font-style: italic; color: #292828;">{{post.venue}}</span>
+    <em>
+      {% assign venue_parts = post.venue | split: "(" %}
+      {{ venue_parts[0] }}
+      {% if venue_parts.size > 1 %}
+        (<strong>{{ venue_parts[1] | remove: ")" }}</strong>)
+      {% endif %}
+    </em>
 
     <br>
     {% for link in post.links %}
