@@ -3,9 +3,9 @@ title: "A First Physical-World Trajectory Prediction Attack via LiDAR-induced De
 collection: publications
 permalink: /publication/2024-pred-attack
 date: 2024-06-13
-venue: 'USENIX Security 24'
+venue: "In Proc. of the 33rd USENIX Security Symposium (Security'24), 2024"
 paperurl: 'https://www.usenix.org/conference/usenixsecurity24/presentation/lou'
-imgurl: 'pred-attack.png'
+# imgurl: 'pred-attack.png'
 show: true
 authors:
     - name: Yang Lou*

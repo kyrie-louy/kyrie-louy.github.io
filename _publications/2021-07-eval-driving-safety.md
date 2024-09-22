@@ -3,7 +3,7 @@ title: "Evaluating Adversarial Attacks on Driving Safety in Vision-Based Autonom
 collection: publications
 permalink: /publication/2021-07-eval-driving-safety
 date: 2021-07-26
-venue: 'IEEE Internet of Things Journal'
+venue: 'IEEE Internet of Things Journal (IoTJ), 2021'
 paperurl: 'https://ieeexplore.ieee.org/document/9493770'
 imgurl: 'eval-driving-safety.png'
 show: true
