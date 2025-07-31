@@ -3,7 +3,7 @@ title: "Dynamic Defense for Car-Borne LiDAR Vehicle Detection"
 collection: publications
 permalink: /publication/2025-mobisys
 date: 2025-06-13
-venue: "The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), 2025"
+venue: "The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys’25), 2025"
 # paperurl: 'https://www.usenix.org/conference/usenixsecurity24/presentation/lou'
 # imgurl: 'pred-attack.png'
 show: true
