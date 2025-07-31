@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). Prior to this, I earned my Bachelor’s degree in Computer Science at City University of Hong Kong.
+I received my Ph.D. degree at [City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). Before that, I earned my Bachelor’s degree in Computer Science from CityU.
 
-My research focuses on the intersection of autonomous driving security, sensor security, and uncertainty estimation, with a particular interest in **robust perception and prediction algorithms** for autonomous driving.
+My research lies at the intersection of AI security, sensor security, and uncertainty estimation, with a particular focus on vulnerability analysis, physical attacks, and defense strategies for autonomous driving systems.
+
 <!-- I am a ~~first-~~ ~~second-~~ ~~third~~ fourth-year Ph.D. student in [Computer Science](https://www.cs.cityu.edu.hk/) at [the City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/). My research focuses on the intersection of autonomous driving security, sensor security, and uncertainty estimation, with a particular interest in **robust perception and prediction algorithms** for autonomous driving. -->
 
 <!-- Prior to this, I earned my Bachelor’s degree in Computer Science from the City University of Hong Kong. I was fortunate to work with Prof. Jianping Wang on adversarial attacks against autonomous driving. -->
@@ -19,8 +20,8 @@ I help maintain the [Awesome-Autonomous-Driving-Security](https://github.com/ide
 
 # Education
 
-- Sept. 2021 - July 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
-- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visiting Ph.D. student, State University of New York at Buffalo
+- Sept. 2021 - July 2025 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. in Computer Science, City University of Hong Kong
+- Nov. 2022 - Apr. 2023 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visiting Ph.D. student, State University of New York at Buffalo
 - Sept. 2017 - June 2021 &nbsp; &nbsp; &nbsp; &nbsp; BSc in Computer Science, City University of Hong Kong
 
 # Publication
