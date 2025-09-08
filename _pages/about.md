@@ -37,7 +37,7 @@ I help maintain the [Awesome-Autonomous-Driving-Security](https://github.com/ide
 
 # 📝 Publications 
 
-- [Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving](javascript:void(0)) ![CCS 2025](https://img.shields.io/badge/CCS-2025-blue?style=flat-square) <a href="files/ccs25.pdf">![Paper](https://img.shields.io/badge/Paper-PDF-red)</a>
+- [Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving](javascript:void(0)) ![CCS 2025](https://img.shields.io/badge/CCS-2025-blue?style=flat-square) <a href="files/ccs25.pdf">![Paper](https://img.shields.io/badge/Paper-PDF-red)</a>  
   **Yang Lou\***, Haibo Hu\*, Qun Song\*, Qian Xu, Yi Zhu, Rui Tan, Wei-Bin Lee, Jianping Wang    
   *The 32nd ACM Conference on Computer and Communications Security (**CCS'25**), 2025*  
 
