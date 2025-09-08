@@ -20,6 +20,8 @@ redirect_from:
 I received my Ph.D. degree and Bachelor's degree in Computer Science from [City University of Hong Kong](https://www.cityu.edu.hk/), advised by Prof. [Jianping Wang](https://www.cs.cityu.edu.hk/~jianwang/).
 
 My research lies at the intersection of AI security, sensor security, and uncertainty estimation, with a particular focus on vulnerability analysis, physical attacks, and defense strategies for autonomous driving systems.
+
+I help maintain the [Awesome-Autonomous-Driving-Security](https://github.com/ideasplus/Awesome-Autonomous-Driving-Security) paper list. Feel free to check it out!
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -35,8 +37,8 @@ My research lies at the intersection of AI security, sensor security, and uncert
 
 # 📝 Publications 
 
-- [Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving](javascript:void(0)) ![CCS 2025](https://img.shields.io/badge/CCS-2025-blue?style=flat-square)   
-  **Yang Lou\***, Haibo Hu\*, Qun Song\*, Qian Xu\*, Yi Zhu\*, Rui Tan, Wei-Bin Lee, Jianping Wang    
+- [Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving](javascript:void(0)) ![CCS 2025](https://img.shields.io/badge/CCS-2025-blue?style=flat-square) <a href="files/ccs25.pdf">![Paper](https://img.shields.io/badge/Paper-PDF-red)</a>
+  **Yang Lou\***, Haibo Hu\*, Qun Song\*, Qian Xu, Yi Zhu, Rui Tan, Wei-Bin Lee, Jianping Wang    
   *The 32nd ACM Conference on Computer and Communications Security (**CCS'25**), 2025*  
 
 - [Dynamic Defense for Car-Borne LiDAR Vehicle Detection](files/mobisys25.pdf) ![MobiSys 2025](https://img.shields.io/badge/MobiSys-2025-blue?style=flat-square) <a href="files/mobisys25.pdf">![Paper](https://img.shields.io/badge/Paper-PDF-red)</a>  
